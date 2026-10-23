@@ -16,7 +16,7 @@ Skin cancer images.
 | Model | Accuracy |
 |---|---|
 | Baseline | [X%] |
-| With augmentation | [Y%] |
+| With augmentation | 73.739 %|
 
 ## Tech stack
 Python, TensorFlow, pandas, NumPy, Matplotlib
